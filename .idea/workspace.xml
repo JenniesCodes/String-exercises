@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0f7f234-a7cf-4bad-8774-1f7c6b2b7dba" name="Changes" comment="Finished exercises">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex10StringToCharArray/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex10StringToCharArray/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex11CharArrayToString/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex11CharArrayToString/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex1LengthChar/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex1LengthChar/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex2IndexPosition/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex2IndexPosition/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex3Substring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex3Substring/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex4LowercaseUppercase/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex4LowercaseUppercase/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex5ReplaceWord/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex5ReplaceWord/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex6Trim/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex6Trim/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex7Parse/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex7Parse/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex8OilAndWater/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex8OilAndWater/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex9Split/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex9Split/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="b0f7f234-a7cf-4bad-8774-1f7c6b2b7dba" name="Changes" comment="Finished exercises" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,6 +114,13 @@
       <option name="presentableId" value="Default" />
       <updated>1663048975128</updated>
     </task>
+    <task id="LOCAL−00001" summary="Finished exercises">
+      <created>1663317055812</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1663317055812</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
