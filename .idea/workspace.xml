@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0f7f234-a7cf-4bad-8774-1f7c6b2b7dba" name="Changes" comment="Finished exercises" />
+    <list default="true" id="b0f7f234-a7cf-4bad-8774-1f7c6b2b7dba" name="Changes" comment="Finished exercises">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex10StringToCharArray/src/main/java/se/lexicon/jennie/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex10StringToCharArray/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex9Split/src/main/java/se/lexicon/jennie/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ex9Split/src/main/java/se/lexicon/jennie/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +33,7 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.se.lexicon.jennie.Main (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.lexicon.jennie.Main" />
       <module name="ex8OilAndWater" />
@@ -69,9 +73,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="se.lexicon.jennie.Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="se.lexicon.jennie.Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.lexicon.jennie.Main" />
-      <module name="ex4LowercaseUppercase" />
+      <module name="ex6Trim" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="se.lexicon.jennie.*" />
@@ -97,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.se.lexicon.jennie.Main (2)" />
         <item itemvalue="Application.se.lexicon.jennie.Main (1)" />
         <item itemvalue="Application.se.lexicon.jennie.Main" />
-        <item itemvalue="Application.se.lexicon.jennie.Main (3)" />
+        <item itemvalue="Application.se.lexicon.jennie.Main (4)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.se.lexicon.jennie.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +124,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1663317055812</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Finished exercises">
+      <created>1663317529967</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1663317529967</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

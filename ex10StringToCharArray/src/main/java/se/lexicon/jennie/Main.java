@@ -14,7 +14,7 @@ public class Main {
         System.out.println("Each element in the char array: ");
 
         for(int i = 0; i < s.length(); i++) {
-            System.out.print(c[i]);
+            System.out.println(c[i]);
         }
     }
 }

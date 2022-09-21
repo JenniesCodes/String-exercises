@@ -1,9 +1,18 @@
 package se.lexicon.jennie;
 
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
 
         String s = "Carl,Susie,Fredrick,Bob,Erik";
+
+        /* Another way of doing it:
+
+        String[] separatedNames = s.split(",");
+        System.out.println(Arrays.toString(separatedNames));
+
+         */
 
         String s1 = s.substring(0, s.indexOf(",")); // Carl
         String s2 = s.substring(s.indexOf("S"), s.indexOf("e") + 1); // Susie
